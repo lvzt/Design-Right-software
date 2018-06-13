@@ -35,7 +35,7 @@ There is an example for this software which is designing an interactive urinal d
 # 下载<br/>
 前往[下载页面](https://github.com/lvzt/Design-Right-software/wiki/Download-(%E4%B8%8B%E8%BD%BD))<br/>
 <br/>
-＃示例<br/>
+# 示例<br/>
 本软件提供了一个示例，示例是设计一种互动如厕装置。英文网站上文字部分已经完成，但表格内容仍在翻译当中。中文网站包含全部内容。Google在线翻译可以将网站文字翻译成英文。<br/>
 [示例下载](https://github.com/lvzt/Design-Right-software/blob/master/example/Interactive%20Urinal%20Device_CN.rar)
 [英文说明]（https://github.com/lvzt/Mens-toilet-interactive-device-project-EN）
