@@ -16,9 +16,9 @@ Go to [download page](https://github.com/lvzt/Design-Right-software/wiki/Downloa
 <br/>
 # Example<br/>
 There is an example for this software which is designing an interactive urinal device. Most part of detailed description has completed in the English website but it is still under construction. The Chinese website has all content. And Google translate could do a good job.<br/>
-[Download example]()
-[English description]()
-[Chinese description]()
+[Download example](https://github.com/lvzt/Design-Right-software/blob/master/example/Interactive%20Urinal%20Device_CN.rar)
+[English description](https://github.com/lvzt/Mens-toilet-interactive-device-project-EN)
+[Chinese description](https://github.com/lvzt/Mens-toilet-interactive-device-project-CN)
 <br/>
 # 简介<br/>
 本软件名为 Design Right 。本软件设计用于在开发产品或服务之前进行规划。软件中使用的流源于一本书 - Getting Design Right。本软件由Python 3.5、PyQt 5.8和SQLite编写。<br/>
@@ -37,7 +37,7 @@ There is an example for this software which is designing an interactive urinal d
 <br/>
 ＃示例<br/>
 本软件提供了一个示例，示例是设计一种互动如厕装置。英文网站上文字部分已经完成，但表格内容仍在翻译当中。中文网站包含全部内容。Google在线翻译可以将网站文字翻译成英文。<br/>
-[示例下载]()
-[英文说明]（）
-[中文说明]（）
+[示例下载](https://github.com/lvzt/Design-Right-software/blob/master/example/Interactive%20Urinal%20Device_CN.rar)
+[英文说明]（https://github.com/lvzt/Mens-toilet-interactive-device-project-EN）
+[中文说明]（https://github.com/lvzt/Mens-toilet-interactive-device-project-CN）
 <br/>
