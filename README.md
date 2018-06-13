@@ -11,7 +11,7 @@ Please click this [link](https://github.com/lvzt/Design-Right-software/wiki/User
 # Note<br/>
 Please note: this software can be used for education, evaluation and presentation and CANNOT be used in commercial!<br/>
 # Download<br/>
-Go to [download page]().<br/>
+Go to [download page](https://github.com/lvzt/Design-Right-software/wiki/Download-(%E4%B8%8B%E8%BD%BD)).<br/>
 <br/>
 # 简介<br/>
 本软件名为 Design Right 。本软件设计用于在开发产品或服务之前进行规划。软件中使用的流源于一本书 - Getting Design Right。本软件由Python 3.5、PyQt 5.8和SQLite编写。<br/>
@@ -25,4 +25,4 @@ Go to [download page]().<br/>
 # 注意<br/>
 请注意：该软件仅可用于教学、评估和演示，严禁用于商业！<br/>
 # 下载<br/>
-前往[下载页面]()<br/>
+前往[下载页面](https://github.com/lvzt/Design-Right-software/wiki/Download-(%E4%B8%8B%E8%BD%BD))<br/>
