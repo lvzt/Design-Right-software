@@ -20,5 +20,5 @@ Please note: this software can be used for education, evaluation and presentatio
 2. 中科软的前同事苏晓秋在数据库给了我很多有用的建议。
 3. 好友孙宇在UI方面给了我很多有用的建议。
 <br/>
-＃注意<br/>
+＃ 注意：<br/>
 请注意：该软件仅可用于教学、评估和演示，严禁用于商业！<br/>
