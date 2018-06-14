@@ -1,6 +1,6 @@
 ![](https://github.com/lvzt/Design-Right-software/blob/master/pic/Desigh%20Right%20Logo.jpg)<br/>
 # Introduction<br/>
-<br/>
+###
 This software is named as Design Right. It is designed for making plan before developing a product or service. The process used in the software is based on a book - Getting Design Right. The software is programmed by Python 3.5, PyQt 5.8 and SQLite.<br/>
 The process used in the software has 114 steps which are divided into eight parts: define, measure, explore, optimize, develop, validate, execute, and iterate. The software is suitable to be used in a project with medium level of complexity or less.<br/>
 <br/>
@@ -30,6 +30,7 @@ or
 [Chinese description](https://github.com/lvzt/Mens-toilet-interactive-device-project-CN)<br/>
 <br/>
 # 简介<br/>
+###
 本软件名为 Design Right 。本软件设计用于在开发产品或服务之前进行规划。软件中使用的流程源于一本书 - Getting Design Right。本软件采用Python 3.5、PyQt 5.8和SQLite编写。<br/>
 <br/>
 本软件的流程共有114个步骤，分为八个部分：定义、测量、探索、优化、开发、确认，执行，和迭代。该软件适用于中等复杂程度及以下的项目。<br/>
