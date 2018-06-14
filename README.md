@@ -10,7 +10,6 @@ Please click this [link](https://github.com/lvzt/Design-Right-software/wiki/User
 # Special Appreciation<br/>
 1. My family gave me so much support. Especially, my younger brother Dr. Mingtao Lu gave me so much valuable suggestions in algrithom.
 2. My former colleague Xiaoqiu Su in Sinosoft gave me helpful suggestions in database.
-3. My best friend Yu Sun gave me helpfule suggestions in UI.
 ###
 # Note<br/>
 Please note: this software can be used for education, evaluation and presentation and CANNOT be used in commercial!<br/>
@@ -41,7 +40,6 @@ or
 # 特别感谢：<br/>
 1. 我的家人给了我很多支持。特别是，弟弟吕明涛博士在算法方面提供了很多有价值的建议。
 2. 中科软的前同事苏晓秋在数据库提供了很多有用的建议。
-3. 好友孙宇在UI方面提供了很多有用的建议。
 ###
 # 注意<br/>
 请注意：该软件仅可用于教学、评估和演示，严禁用于商业！<br/>
