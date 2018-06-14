@@ -2,6 +2,7 @@
 # Introduction<br/>
 ###
 This software is named as Design Right. It is designed for making plan before developing a product or service. The process used in the software is based on a book - Getting Design Right. The software is programmed by Python 3.5, PyQt 5.8 and SQLite.<br/>
+<br/>
 The process used in the software has 114 steps which are divided into eight parts: define, measure, explore, optimize, develop, validate, execute, and iterate. The software is suitable to be used in a project with medium level of complexity or less.<br/>
 <br/>
 # User Manual<br/>
