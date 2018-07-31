@@ -55,7 +55,7 @@ or
 or
 [示例下载](https://sourceforge.net/projects/design-right-software/files/Example/Interactive%20Urinal%20Device_CN.rar/download)<br/>
 <br/>
-[英文说明]（https://github.com/lvzt/Mens-toilet-interactive-device-project-EN）<br/>
+[英文说明]https://github.com/lvzt/Mens-toilet-interactive-device-project-EN<br/>
 <br/>
-[中文说明]（https://github.com/lvzt/Mens-toilet-interactive-device-project-CN）<br/>
+[中文说明]https://github.com/lvzt/Mens-toilet-interactive-device-project-CN<br/>
 <br/>
