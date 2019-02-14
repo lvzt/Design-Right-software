@@ -3,6 +3,8 @@
 # Software Introduction [link](https://github.com/lvzt/Design-Right-software#introduction)<br/>
 # 软件介绍[link](https://github.com/lvzt/Design-Right-software#%E7%AE%80%E4%BB%8B)<br/>
 <br/>
+<br/>
+<br/>
 # Introduction<br/>
 ###
 This software is named as Design Right. It is designed for making plan before developing a product or service. The process used in the software is based on a book - Getting Design Right. The software is programmed by Python 3.5, PyQt 5.8 and SQLite.<br/>
