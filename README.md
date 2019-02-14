@@ -1,4 +1,5 @@
 ![](https://github.com/lvzt/Design-Right-software/blob/master/pic/Desigh%20Right%20Logo.jpg)<br/>
+
 # Introduction<br/>
 ###
 This software is named as Design Right. It is designed for making plan before developing a product or service. The process used in the software is based on a book - Getting Design Right. The software is programmed by Python 3.5, PyQt 5.8 and SQLite.<br/>
