@@ -17,7 +17,7 @@ Please click this [link](https://github.com/lvzt/Design-Right-software/wiki/User
 ###
 # Note<br/>
 Please note: this software can be used for education, evaluation and presentation and CANNOT be used in commercial!<br/>
-The copyright of this software is registered by the author (Zhentao Lu) in P.R.China.<br/>
+The copyright of this software is registered by the author (Mr. Zhentao Lu) in P.R.China.<br/>
 # Download<br/>
 Go to [download page](https://github.com/lvzt/Design-Right-software/wiki/Download-(%E4%B8%8B%E8%BD%BD)).<br/>
 <br/>
@@ -47,7 +47,7 @@ or
 ###
 # 注意<br/>
 请注意：该软件仅可用于教学、评估和演示，严禁用于商业！<br/>
-本软件已由开发者（吕震涛）在中国大陆获得了软件著作权登记。<br/>
+本软件已由开发者（吕震涛先生）在中国大陆获得了软件著作权登记。<br/>
 # 下载<br/>
 前往[下载页面](https://github.com/lvzt/Design-Right-software/wiki/Download-(%E4%B8%8B%E8%BD%BD))<br/>
 <br/>
