@@ -11,6 +11,8 @@ The process used in the software has 114 steps which are divided into eight part
 <br/>
 # User Manual<br/>
 Please click this [link](https://github.com/lvzt/Design-Right-software/wiki/User-Manual) or go to wiki page.<br/>
+# Update information<br/>
+This software is now updated to version 2.0. Please click this [link](https://github.com/lvzt/Design-Right-software/wiki/Update-information-of-version-2.0) for details or go to wiki page.<br/>
 # Special Appreciation<br/>
 1. My family gave me so much support. Especially, my younger brother Dr. Mingtao Lu gave me so much valuable suggestions in algrithom.
 2. My former colleague Xiaoqiu Su in Sinosoft gave me helpful suggestions in database.
@@ -41,6 +43,8 @@ or
 <br/>
 # 用户手册<br/>
 请点击此[链接](https://github.com/lvzt/Design-Right-software/wiki/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C)或前往维基页面（Wiki）。<br/>
+# 升级信息<br/>
+该软件现已更新至2.0版。请点击此链接（https://github.com/lvzt/Design-Right-software/wiki/2.0%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7%E4%BF%A1%E6%81%AF） 了解详情或访问维基页面。
 # 特别感谢：<br/>
 1. 我的家人给了我很多支持。特别是，弟弟吕明涛博士在算法方面提供了很多有价值的建议。
 2. 中科软的前同事苏晓秋在数据库提供了很多有用的建议。
